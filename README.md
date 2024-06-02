@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-The Prework Study Guide is a va;uable resurce or boot camp students going through their prework. It covers essential topics such as HTML, CSS, Git, and JavaScript. Each section contains detailed notes on the subjects. You can review the notes in each section. Open Chrome DevTools by pressing Contol+Shift+I. In the console panel, you'll find a list of prework topics, along with a suggestion on which to study first.
+The Prework Study Guide is a valuable resurce or boot camp students going through their prework. It covers essential topics such as HTML, CSS, Git, and JavaScript. Each section contains detailed notes on the subjects. You can review the notes in each section. Open Chrome DevTools by pressing Contol+Shift+I. In the console panel, you'll find a list of prework topics, along with a suggestion on which to study first.
 
 
 ## Credits
